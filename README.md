@@ -6,7 +6,7 @@ Repository of my retro game saves. Readme includes various tools for interacting
 
 * [drehren/ra_mp64_srm_convert](https://github.com/drehren/ra_mp64_srm_convert) - RetroArch N64 Save Converter
 * [heuripedes/pj64tosrm](https://github.com/heuripedes/pj64tosrm) - Another SRM converter. See `/executables/`. Just drag + drop files to convert onto the exe.
-* [bryc/mempak](https://github.com/bryc/mempak) - Online controller memory pak editor
+* [feyris-tan/gdidrop](https://github.com/feyris-tan/gdidrop) - Convert dreamcast BIN/CUE to GDI
 
 # JELOS
 
@@ -34,3 +34,20 @@ git diff --no-index 1.hex 2.hex
 
 * [Save Methods](http://micro-64.com/database/gamesave.shtml)
 * [CIC List](http://micro-64.com/database/gamecic.shtml)
+
+# R4i Save Dongle
+
+Drivers seem to be not needed on Windows 11.
+Used the firmware upload tool to upload v1.3 firmware.
+Writing a save failed twice, succeeded on 3rd try.
+
+Files
+* `drivers/r4i/drivers.rar` - Drivers, not needed?
+* `firmware/r4i/SaveDongle_v13.bin` - The actual firmware
+* `programs/r4i/SaveDongle_Firmware_Uploader.rar` - Contains the program to upload the firmware
+* `programs/r4i/R4i SaveDongle V1.5.rar` - Contains the program to read/write save files
+* `programs/r4i/3DSaveToolv0.2b-cred.rar` - Tool to encrypt/decrypt 3DS saves
+
+Links
+* [Main Page](http://www.r4i-sdhc.com/SaveDongle.asp)
+* [Firmware Downloads](http://www.r4i-sdhc.com/Upgrade.asp)
