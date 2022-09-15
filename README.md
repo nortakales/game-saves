@@ -17,6 +17,10 @@ Repository of my retro game saves. Readme includes various tools for interacting
 * [JoeyN64](https://bennvenn.myshopify.com/products/joeyn64-cart-flasher) - N64 game pak and controller pak reader/writer
 * [JoeyJR](https://bennvenn.myshopify.com/products/usb-gb-c-cart-dumper-the-joey-jr) - GB/GBC/GBA cart reader/writer
 
+# Programs
+
+* chdman - Converts between GDI/CUE and CHD
+
 # Pokemon
 
 * [projectpokemon/Gen3-WCTool](https://github.com/projectpokemon/Gen3-WCTool) - Gen 3 Wondercard Editor
