@@ -1,0 +1,55 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "inputs": [
+        {
+            "id": "pickDsSaveFile",
+            "type": "command",
+            "command": "filePicker.pick",
+            "args": {
+                "masks": "/saves/DS/**/*.sav",
+                "display": "fileName",
+                "output": "filePath"
+            }
+        }
+    ],
+    "tasks": [
+        {
+            "label": "Copy DS saves: RG353P -> PC",
+            "type": "shell",
+            "command": "scp -r root@RG353P:/storage/.config/drastic/aarch64/drastic/backup/ ${workspaceFolder}/saves/DS",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": true,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "icon": {
+                "id": "desktop-download",
+                "color": "terminal.ansiGreen"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Copy DS save: PC -> RG353P",
+            "type": "shell",
+            "command": "sav2dsv.sh \"${input:pickDsSaveFile}\" && scp \"`echo \"${input:pickDsSaveFile}\" | sed s/\\.sav$/\\.dsv/`\" root@RG353P:/storage/.config/drastic/aarch64/drastic/backup/",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": true,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "icon": {
+                "id": "cloud-upload",
+                "color": "terminal.ansiGreen"
+            },
+            "problemMatcher": []
+        }
+    ]
+}
