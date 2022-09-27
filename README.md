@@ -55,3 +55,19 @@ Files
 Links
 * [Main Page](http://www.r4i-sdhc.com/SaveDongle.asp)
 * [Firmware Downloads](http://www.r4i-sdhc.com/Upgrade.asp)
+
+# Patches
+
+Use `/programs/Lunar IPS.exe` to apply `.ips` patches to ROMs
+
+| Hack                                                                       | File                                             | ROM SHA1                                 |
+| -------------------------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------- |
+| [Super Mario Land DX](https://www.romhacking.net/hacks/4477/)              | `smldx.ips`                                      | 3A4DDB39B234A67FFB361EE7ABC3D23E0A8B1C89 |
+| [Super Mario Land 2 DX](https://www.romhacking.net/hacks/3784/)            | `SML2DXv181.ips`                                 | BBA408539ECBF8D322324956D859BC86E2A9977B |
+| [Dr Mario DX](https://www.romhacking.net/hacks/5281/)                      | `dr_mario_dx.ips`                                | D31D67D0682515C7C85DEAA1752B02231150E5BF |
+| [Kirby's Dream Land DX](https://www.romhacking.net/hacks/5635/)            | `dreamLandDX.ips`                                | 90979BAA1D0E24B41B5C304C5DDAF77450692D5A |
+| [Kirby's Pinball Land DX](https://www.romhacking.net/hacks/6079/)          | `Kirby's Pinball Land DX v1.1.ips`               | 06EFDB138FF56CD9522DECE44ADADD3FAE169C76 |
+| [Metroid II EJRTQ Colorization](https://www.romhacking.net/hacks/4388/)    | `Metroid_II_EJRTQ_Colorization_v1.3.zip`         | worked on my ROM                         |
+| [Wario Land Super Mario Land 3 DX](https://www.romhacking.net/hacks/6683/) | `Wario Land - Super Mario Land 3 DX (World).ips` | AE65800302438E37A99E623A71D1C954D73C843E |
+| [Mother 3 Fan Translation](https://www.romhacking.net/translations/1333/)  | `MOTHER3_EarthBound2_English_v1.3.zip`           | 4F0F493E12C2A8C61B2D809AF03F7ABF87A85776 |
+
