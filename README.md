@@ -73,3 +73,12 @@ Use `/programs/Lunar IPS.exe` to apply `.ips` patches to ROMs
 | [Donkey Kong Land DX](https://www.romhacking.net/hacks/6076/)              | `DKL_v1.01.ips`                                  | 4E6D8F085CA197479D59912C1D58E4F3B40C28AC |
 | [Donkey Kong Land 2 DX](https://www.romhacking.net/hacks/6866/)            | `DKL2 V1.2.ips`                                  | 89CC4F01653A6105EE5C00E10FC65AA1437FD320 |
 
+# Dreamcast
+
+* Manage physical VMUs using SD card adapter + Dreamshell
+  * SD card needs `DreamShell_4.0.0_RC4_and_Boot_Loader.7z` expanded in root
+  * Get the full VMU dumps, otherwise information is lost
+* Use `vmuexplorer.exe` to manage the files
+  * `*.vmd` files can be renamed `*.bin`
+* Delete `dc_nvmem.bin` from Anbernic to clear out the Dreamcast emulator's internal memory (which will clear PSO SN/AK)
+  * This only worked deleting over SSH, and did NOT work when deleting from the SD card on PC
