@@ -2,11 +2,12 @@
 
 Repository of my retro game saves. Readme includes various tools for interacting with game saves and games. Also included is firmware for devices and programs used with saves.
 
-# Git Repos
+# Save/File Converters/Managers
 
-* [drehren/ra_mp64_srm_convert](https://github.com/drehren/ra_mp64_srm_convert) - RetroArch N64 Save Converter
-* [heuripedes/pj64tosrm](https://github.com/heuripedes/pj64tosrm) - Another SRM converter. See `/executables/`. Just drag + drop files to convert onto the exe.
-* [feyris-tan/gdidrop](https://github.com/feyris-tan/gdidrop) - Convert dreamcast BIN/CUE to GDI
+* [drehren/ra_mp64_srm_convert](https://github.com/drehren/ra_mp64_srm_convert) - RetroArch N64 Save Converter. Not yet tested.
+* [heuripedes/pj64tosrm](https://github.com/heuripedes/pj64tosrm) - Another SRM converter. See `/executables/`. Just drag + drop files to convert onto the exe. Tested minimally.
+* [feyris-tan/gdidrop](https://github.com/feyris-tan/gdidrop) - Convert Dreamcast BIN/CUE to GDI. WORKS.
+* [bryc/mempak](https://github.com/bryc/mempak) - Online N64 memory pak manager
 
 # JELOS
 
@@ -34,7 +35,7 @@ xxd <file2> > 2.hex
 git diff --no-index 1.hex 2.hex
 ```
 
-# N64 Information
+# N64
 
 * [Save Methods](http://micro-64.com/database/gamesave.shtml)
 * [CIC List](http://micro-64.com/database/gamecic.shtml)
@@ -77,8 +78,17 @@ Use `/programs/Lunar IPS.exe` to apply `.ips` patches to ROMs
 
 * Manage physical VMUs using SD card adapter + Dreamshell
   * SD card needs `DreamShell_4.0.0_RC4_and_Boot_Loader.7z` expanded in root
-  * Get the full VMU dumps, otherwise information is lost
+  * IMPORTANT: Get the full VMU dumps, not individual saves, otherwise information is lost
 * Use `vmuexplorer.exe` to manage the files
   * `*.vmd` files can be renamed `*.bin`
 * Delete `dc_nvmem.bin` from Anbernic to clear out the Dreamcast emulator's internal memory (which will clear PSO SN/AK)
   * This only worked deleting over SSH, and did NOT work when deleting from the SD card on PC
+
+# Gamecube
+
+Important Git repos
+
+* [PicoBoot](https://github.com/webhdx/PicoBoot) - PicoBoot firmware for Raspberry Pi Pico
+* [Swiss](https://github.com/emukidid/swiss-gc) - main homebrew/ROM launcher
+* [CleanRip](https://github.com/emukidid/cleanrip) - homebrew for ripping ROMs
+* [GCMM](https://github.com/suloku/gcmm) - homebrew for managing memory cards
