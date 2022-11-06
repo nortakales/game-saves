@@ -73,6 +73,7 @@ Use `/programs/Lunar IPS.exe` to apply `.ips` patches to ROMs
 | [Mother 3 Fan Translation](https://www.romhacking.net/translations/1333/)  | `MOTHER3_EarthBound2_English_v1.3.zip`           | 4F0F493E12C2A8C61B2D809AF03F7ABF87A85776 |
 | [Donkey Kong Land DX](https://www.romhacking.net/hacks/6076/)              | `DKL_v1.01.ips`                                  | 4E6D8F085CA197479D59912C1D58E4F3B40C28AC |
 | [Donkey Kong Land 2 DX](https://www.romhacking.net/hacks/6866/)            | `DKL2 V1.2.ips`                                  | 89CC4F01653A6105EE5C00E10FC65AA1437FD320 |
+| [F-Zero Climax Translation](https://www.romhacking.net/hacks/6866/)        | `F-Zero Climax English Patch 1.1.ips`            | 6EB9208C493E8BAA43ECC0DACF71A8CB631BE7CA |
 
 # Dreamcast
 
