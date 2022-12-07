@@ -59,7 +59,10 @@ Links
 
 # Patches
 
-Use `/programs/Lunar IPS.exe` to apply `.ips` patches to ROMs, and `/programs/beat.exe` to apple `.bps` patches
+Programs for patching:
+* `/programs/patchers/Lunar IPS.exe` to apply `.ips`
+* `/programs/patchers/beat.exe` to apple `.bps`
+* `/programs/patchers/tsukuyomi ups.exe` to apple `.ups`
 
 | Hack                                                                                       | File                                             | ROM SHA1                                 |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------ | ---------------------------------------- |
@@ -75,6 +78,9 @@ Use `/programs/Lunar IPS.exe` to apply `.ips` patches to ROMs, and `/programs/be
 | [Donkey Kong Land 2 DX](https://www.romhacking.net/hacks/6866/)                            | `DKL2 V1.2.ips`                                  | 89CC4F01653A6105EE5C00E10FC65AA1437FD320 |
 | [F-Zero Climax Translation](https://www.romhacking.net/translations/6339/)                 | `F-Zero Climax English Patch 1.1.ips`            | 6EB9208C493E8BAA43ECC0DACF71A8CB631BE7CA |
 | [Bomberman 64 - Arcade Edition Translation](https://www.romhacking.net/translations/2755/) | `Bomberman64.7z`                                 | 08E491F87445C6E5C168D982FC665D5F (MD5)   |
+| [Mario Picross 2](https://www.romhacking.net/translations/2303/)                           | `Picross2.ips`                                   | 57788519111CBE9E20B43D1935E9F52AE165E858 |
+| [Mario's Super Picross](https://www.romhacking.net/translations/6306/)                     | `Marios Super Picross - English Translation.bps` | C4200B9886B16C148B32D2C75D02F2A875D997CC |
+| [Pokemon Picross](https://www.romhacking.net/translations/5702/)                           | `POKEPICROSS_ENG.ups`                            | 8204064B7149357939B57342820E7955749183B6 |
 
 # Dreamcast
 
