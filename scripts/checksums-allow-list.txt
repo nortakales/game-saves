@@ -1,0 +1,3 @@
+./saves/Dreamcast/VMU Dump 2/DREAMKEY.SY2.vms
+./saves/Dreamcast/VMU Dump 3/vmudump003.vmd
+./saves/Dreamcast/PSO/2022-10-04 from vmu dump pso guild card.VMU

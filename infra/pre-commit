@@ -1,0 +1,28 @@
+#!/bin/zsh
+
+DIR=$(pwd)
+while [ ! -d ".git" ];
+    do cd ..;
+done;
+OUTPUT=$(./scripts/checksums.sh)
+cd $DIR
+
+if [[ ! -z $OUTPUT ]]; then
+    echo -e "\e[0;36m" # red
+    echo
+    echo $OUTPUT
+    echo
+    # Prompt user before continuing
+    echo -e "\e[0;31m" # red
+    read RESPONSE'?There are some identical files, do you want to continue? [y/n] '
+    echo -e "\e[0;0m" # reset color
+
+    case "$RESPONSE" in
+        [yY][eE][sS]|[yY])
+            exit 0
+            ;;
+        *)
+            exit 1
+            ;;
+    esac
+fi
