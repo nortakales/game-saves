@@ -1,5 +1,7 @@
 #!/bin/zsh
 
+# From workspace root: cp infra/pre-commit .git/hooks
+
 DIR=$(pwd)
 while [ ! -d ".git" ];
     do cd ..;

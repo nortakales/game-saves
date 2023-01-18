@@ -4,7 +4,7 @@ Repository of my retro game saves. Readme includes various tools for interacting
 
 # Save/File Converters/Managers
 
-* [drehren/ra_mp64_srm_convert](https://github.com/drehren/ra_mp64_srm_convert) - RetroArch N64 Save Converter. Not yet tested.
+* [drehren/ra_mp64_srm_convert](https://github.com/drehren/ra_mp64_srm_convert) - RetroArch N64 Save Converter. Worked for Snowboard Kids 2 (so far) but created SRA and EEP files when only EEP was needed.
 * [heuripedes/pj64tosrm](https://github.com/heuripedes/pj64tosrm) - Another SRM converter. See `/executables/`. Just drag + drop files to convert onto the exe. Tested minimally.
 * [feyris-tan/gdidrop](https://github.com/feyris-tan/gdidrop) - Convert Dreamcast BIN/CUE to GDI. WORKS.
 * [bryc/mempak](https://github.com/bryc/mempak) - Online N64 memory pak manager
