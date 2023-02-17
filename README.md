@@ -40,6 +40,10 @@ git diff --no-index 1.hex 2.hex
 * [Save Methods](http://micro-64.com/database/gamesave.shtml)
 * [CIC List](http://micro-64.com/database/gamecic.shtml)
 
+# SNES
+
+* [Correct aspect ratios](https://forums.nesdev.org/viewtopic.php?t=23885)
+
 # R4i Save Dongle
 
 Drivers seem to be not needed on Windows 11.
@@ -100,3 +104,4 @@ Important Git repos
 * [Swiss](https://github.com/emukidid/swiss-gc) - main homebrew/ROM launcher
 * [CleanRip](https://github.com/emukidid/cleanrip) - homebrew for ripping ROMs
 * [GCMM](https://github.com/suloku/gcmm) - homebrew for managing memory cards
+* TODO: gameboy player interface
