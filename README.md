@@ -22,6 +22,10 @@ Repository of my retro game saves. Readme includes various tools for interacting
 
 * chdman - Converts between GDI/CUE and CHD
 
+# Scripts
+
+* saveswap - worked for some N64 saves from Joey to work on the ED (and vice versa)
+
 # Pokemon
 
 * [projectpokemon/Gen3-WCTool](https://github.com/projectpokemon/Gen3-WCTool) - Gen 3 Wondercard Editor
