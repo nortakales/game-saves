@@ -50,3 +50,5 @@ struct Footer {
 };
 
 Code: https://github.com/TASEmulators/desmume/blob/master/desmume/src/mc.cpp
+Also https://github.com/jojojo8359/DeSmuMESaveConverter/blob/master/main.py
+And https://github.com/j-tai/dsv2sav/blob/master/dsv2sav.py

@@ -8,6 +8,10 @@ Repository of my retro game saves. Readme includes various tools for interacting
 * [heuripedes/pj64tosrm](https://github.com/heuripedes/pj64tosrm) - Another SRM converter. See `/executables/`. Just drag + drop files to convert onto the exe. Tested minimally.
 * [feyris-tan/gdidrop](https://github.com/feyris-tan/gdidrop) - Convert Dreamcast BIN/CUE to GDI. WORKS.
 * [bryc/mempak](https://github.com/bryc/mempak) - Online N64 memory pak manager
+* [savefileconverter.com](https://savefileconverter.com/)
+* [save-editor.com](https://www.save-editor.com/)
+* [hjojojo8359/DeSmuMESaveConverter](https://github.com/jojojo8359/DeSmuMESaveConverter)
+* [j-tai/dsv2sav](https://github.com/j-tai/dsv2sav)
 
 # JELOS
 
@@ -105,7 +109,9 @@ Programs for patching:
 Important Git repos
 
 * [PicoBoot](https://github.com/webhdx/PicoBoot) - PicoBoot firmware for Raspberry Pi Pico
+* [iplboot](https://github.com/redolution/iplboot) - I believe PicoBoot uses this to boot
 * [Swiss](https://github.com/emukidid/swiss-gc) - main homebrew/ROM launcher
 * [CleanRip](https://github.com/emukidid/cleanrip) - homebrew for ripping ROMs
 * [GCMM](https://github.com/suloku/gcmm) - homebrew for managing memory cards
 * TODO: gameboy player interface
+* [GBI-Speedrunning-Fullscreen](https://github.com/ABOhiccups/GBI-Speedrunning-Fullscreen) - presets for GBI
