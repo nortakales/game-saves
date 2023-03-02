@@ -93,6 +93,8 @@ Programs for patching:
 | [Mario Picross 2](https://www.romhacking.net/translations/2303/)                           | `Picross2.ips`                                   | 57788519111CBE9E20B43D1935E9F52AE165E858 |
 | [Mario's Super Picross](https://www.romhacking.net/translations/6306/)                     | `Marios Super Picross - English Translation.bps` | C4200B9886B16C148B32D2C75D02F2A875D997CC |
 | [Pokemon Picross](https://www.romhacking.net/translations/5702/)                           | `POKEPICROSS_ENG.ups`                            | 8204064B7149357939B57342820E7955749183B6 |
+| [Pokemon TCG 2](https://www.romhacking.net/translations/1736/)                             | `PokemonTCG2-FullTrans.ips`                      | A7E12BCC5F514E3AAD8DE570FD511AAB0A308822 |
+
 
 # Dreamcast
 
