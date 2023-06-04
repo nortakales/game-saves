@@ -47,6 +47,7 @@ git diff --no-index 1.hex 2.hex
 
 * [Save Methods](http://micro-64.com/database/gamesave.shtml)
 * [CIC List](http://micro-64.com/database/gamecic.shtml)
+* [GameboxSystems/64HD-Installation-Guide](https://github.com/GameboxSystems/64HD-Installation-Guide)
 
 # SNES
 
@@ -119,3 +120,9 @@ Important Git repos
 * [GCMM](https://github.com/suloku/gcmm) - homebrew for managing memory cards
 * TODO: gameboy player interface
 * [GBI-Speedrunning-Fullscreen](https://github.com/ABOhiccups/GBI-Speedrunning-Fullscreen) - presets for GBI
+
+
+# Other Assorted Links
+
+* [Genki ShadowCast: How to Fix 1080p Streaming](https://medium.com/@karlphillip/genki-shadowcast-how-to-fix-it-for-free-27d40870eaa0)
+* [Some Tips For Optimizing Mupen64 FZ For Nintendo 64 Games](https://www.reddit.com/r/EmulationOnAndroid/comments/pp3uxi/some_tips_for_optimizing_mupen64_fz_for_nintendo/)

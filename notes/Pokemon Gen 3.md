@@ -4,6 +4,8 @@
 * [Mystic Ticket](https://bulbapedia.bulbagarden.net/wiki/MysticTicket)
 * [Aurora Ticket](https://bulbapedia.bulbagarden.net/wiki/AuroraTicket)
 * [List of distributions](https://bulbapedia.bulbagarden.net/wiki/List_of_English_event_Pok%C3%A9mon_distributions_(Generation_III))
+* [Goppier/Gen3DistributionRoms](https://github.com/Goppier/Gen3DistributionRoms)
+* [Goppier/GEN3PokemonDistributions](https://github.com/Goppier/GEN3PokemonDistributions)
 
 # Pokemon Aurora Ticket Distribution USA GBA Cartridge Rom
 
