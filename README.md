@@ -49,6 +49,27 @@ git diff --no-index 1.hex 2.hex
 * [CIC List](http://micro-64.com/database/gamecic.shtml)
 * [GameboxSystems/64HD-Installation-Guide](https://github.com/GameboxSystems/64HD-Installation-Guide)
 
+# 3DS
+
+## Homebrew
+
+* [Checkpoint](https://github.com/BernardoGiordano/Checkpoint)
+* [Twilight Menu](https://github.com/DS-Homebrew/TWiLightMenu)
+  * [Guide](https://www.cfwaifu.com/twilight-menu-3ds/)
+* [Universal Updater](https://github.com/Universal-Team/Universal-Updater)
+* [Homebrew Launcher](https://github.com/PabloMK7/homebrew_launcher_dummy)
+* [FBI](https://github.com/Steveice10/FBI)
+* [Godemode9](https://github.com/d0k3/GodMode9)
+* [3DS Hacking Guide](https://3ds.hacks.guide/)
+* [CFW Guide](https://3ds.eiphax.tech/tips.html)
+
+## Hotkeys
+
+* Holding (Select) on boot will launch the Luma3DS configuration menu.
+* Holding (Start) on boot will launch GodMode9, or if you have multiple payloads in /luma/payloads/, the Luma3DS chainloader.
+* By default, pressing (Left Shoulder) + (Down D-Pad) + (Select) while in 3DS mode will open the Rosalina menu, where you can check system information, take screenshots, enable cheats, and more. This can be changed from the Rosalina menu.
+* Holding (Start) + (Select) + (X) on boot will make the notification LED show a color for debug purposes. See the changelog for a list.
+
 # SNES
 
 * [Correct aspect ratios](https://forums.nesdev.org/viewtopic.php?t=23885)
@@ -121,8 +142,16 @@ Important Git repos
 * TODO: gameboy player interface
 * [GBI-Speedrunning-Fullscreen](https://github.com/ABOhiccups/GBI-Speedrunning-Fullscreen) - presets for GBI
 
+# BlueRetro
+
+* [Web Config](https://blueretro.io/index.html)
+
+# Gameboy Printer
+
+* [Compilation of printable content](https://www.reddit.com/r/gamecollecting/comments/jx96pc/all_the_images_you_can_print_from_game_boy/)
 
 # Other Assorted Links
 
 * [Genki ShadowCast: How to Fix 1080p Streaming](https://medium.com/@karlphillip/genki-shadowcast-how-to-fix-it-for-free-27d40870eaa0)
 * [Some Tips For Optimizing Mupen64 FZ For Nintendo 64 Games](https://www.reddit.com/r/EmulationOnAndroid/comments/pp3uxi/some_tips_for_optimizing_mupen64_fz_for_nintendo/)
+
