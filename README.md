@@ -145,6 +145,10 @@ Important Git repos
 # BlueRetro
 
 * [Web Config](https://blueretro.io/index.html)
+* [Documentation](https://github.com/darthcloud/BlueRetro/wiki/BlueRetro-BLE-Web-Config-User-Manual)
+
+* HW1 is typically external (N64 adapter)
+* HW2 is typically internal (Gamecube port adapter)
 
 # Gameboy Printer
 
