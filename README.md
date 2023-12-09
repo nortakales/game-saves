@@ -48,6 +48,7 @@ git diff --no-index 1.hex 2.hex
 * [Save Methods](http://micro-64.com/database/gamesave.shtml)
 * [CIC List](http://micro-64.com/database/gamecic.shtml)
 * [GameboxSystems/64HD-Installation-Guide](https://github.com/GameboxSystems/64HD-Installation-Guide)
+  * L + R + C-down + Dpad-down = enter OSD mode
 
 # 3DS
 
