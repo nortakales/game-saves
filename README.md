@@ -122,6 +122,7 @@ Programs for patching:
 | [Super Mario World - A Plumber For All Seasons](https://www.smwcentral.net/?p=section&a=details&id=28856) | `a-plumber-for-all-seasons_2021-11-22.bps`       | 6B47BB75D16514B6A476AA0C73A683A2A4C18765 |
 | [Kirby's Super Star Stacker](https://www.romhacking.net/translations/4917/)                               | `Super Star Stacker 1.1.ips`                     | DC252753D4964516419CA981D59A8E704BA41842 |
 | [F-Zero GP Legend eReader Levels](https://www.romhacking.net/hacks/5366/)                                 | `f-zero_gpl_e+_complete.zip`                     | 977588D9D27B7115E0BB309FB019AE81B9F413FF |
+| [Lode Runner: Lost Labyrinth Translation](https://www.romhacking.net/translations/673/)                   | `ldrun_ll.ips`                                   | D3C9813D6133EF0CA468870E9E1C8A8FE8E46C09 |
 
 # Dreamcast
 
