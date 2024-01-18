@@ -28,7 +28,8 @@ Repository of my retro game saves. Readme includes various tools for interacting
 
 # Scripts
 
-* saveswap - worked for some N64 saves from Joey to work on the ED (and vice versa)
+* saveswap - worked for N64 SRAM (.sra .srm) saves from Joey to work on the Everdrive (and vice versa), does a word AND byte swap by default which is what works for the Everdrive
+  * Note: save files in this repo may be in either format depending on where they were played or taken from and have not been consolidated to a single format
 
 # Pokemon
 
@@ -36,12 +37,8 @@ Repository of my retro game saves. Readme includes various tools for interacting
 
 # Command Line
 
-Diff binary files like this:
-```
-xxd <file1> > 1.hex
-xxd <file2> > 2.hex
-git diff --no-index 1.hex 2.hex
-```
+* Diff binary files like this: `hexdiff.sh <file1> <file2>`
+* `checksums.sh` will compare checksums of ALL save files, and tell you if a file is empty
 
 # N64
 
