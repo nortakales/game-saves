@@ -120,6 +120,7 @@ Programs for patching:
 | [Kirby's Super Star Stacker](https://www.romhacking.net/translations/4917/)                               | `Super Star Stacker 1.1.ips`                     | DC252753D4964516419CA981D59A8E704BA41842 |
 | [F-Zero GP Legend eReader Levels](https://www.romhacking.net/hacks/5366/)                                 | `f-zero_gpl_e+_complete.zip`                     | 977588D9D27B7115E0BB309FB019AE81B9F413FF |
 | [Lode Runner: Lost Labyrinth Translation](https://www.romhacking.net/translations/673/)                   | `ldrun_ll.ips`                                   | D3C9813D6133EF0CA468870E9E1C8A8FE8E46C09 |
+| [Tecmo Super Bowl 2014](https://www.romhacking.net/hacks/1585/)                                           | `TSB2014.ips`                                    | 0A491B125CA1D8BCEBFD19174527D9EEC13820D0 |
 
 # Dreamcast
 
