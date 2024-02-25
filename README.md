@@ -22,6 +22,32 @@ Repository of my retro game saves. Readme includes various tools for interacting
 * [JoeyN64](https://bennvenn.myshopify.com/products/joeyn64-cart-flasher) - N64 game pak and controller pak reader/writer
 * [JoeyJR](https://bennvenn.myshopify.com/products/usb-gb-c-cart-dumper-the-joey-jr) - GB/GBC/GBA cart reader/writer
 
+## GBC Screen
+
+Model: [Q5 IPS LCD Retro Pixel 2.0 laminated with OSD - Funny Playing](https://handheldlegend.com/products/game-boy-color-q5-retro-pixel-ips-lcd-kit-with-laminated-lens-funnyplaying)
+
+Operating OSD:
+* Tap and hold the touch sensor for 3 seconds to open OSD menu.
+* Quick tap to make adjustments in the current menu option.
+* To move to the next menu option, tap and hold the touch sensor for 2 seconds. 
+* To exit the OSD menu, hold the touch sensor for 3 seconds or the menu will time out on its own.
+
+Functions:
+* BRT = Brightness options
+* DSP = Pixel Modes
+* FRM = Frame Blending Mode - flicker reduction
+* LGC = GBC logo color options
+* R/G/B = Customize GBC logo color options
+* N = Move the display image left and right respectively
+
+Pixel Modes:
+* Built-in 5 display effects.
+* 2? Full pixel copy display (display the highest brightness, gorgeous and concise)
+* 3? Classic GBC display (perfectly restore the original display effect)
+* 4? Classic RGB display (perfectly restore the original display effect, and the pixel gap looks smaller, the brightness will be slightly darker)
+* 5? RGB display (closest to the original display, but the brightness is very low)
+* 1? Grid line display (close to the display effect of DMG)
+
 # Programs
 
 * chdman - Converts between GDI/CUE and CHD
