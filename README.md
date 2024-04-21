@@ -132,6 +132,7 @@ Programs for patching:
 
 | Hack                                                                                                      | File                                             | ROM SHA1                                 |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------- |
+| [F-Zero BS Deluxe](https://www.romhacking.net/hacks/8437/)                                                | `bs-deluxe-usa.ips`                              | D3EFD32B68F1FE37A82DB9D9929B7CA7CC1A3AF4 |
 | [Kirby's Super Star Stacker](https://www.romhacking.net/translations/4917/)                               | `Super Star Stacker 1.1.ips`                     | DC252753D4964516419CA981D59A8E704BA41842 |
 | [Mario's Super Picross](https://www.romhacking.net/translations/6306/)                                    | `Marios Super Picross - English Translation.bps` | C4200B9886B16C148B32D2C75D02F2A875D997CC |
 | [Super Mario World - A Plumber For All Seasons](https://www.smwcentral.net/?p=section&a=details&id=28856) | `a-plumber-for-all-seasons_2021-11-22.bps`       | 6B47BB75D16514B6A476AA0C73A683A2A4C18765 |
@@ -154,6 +155,7 @@ Programs for patching:
 | [Kirby's Pinball Land DX](https://www.romhacking.net/hacks/6079/)          | `Kirby's Pinball Land DX v1.1.ips`               | 06EFDB138FF56CD9522DECE44ADADD3FAE169C76 |
 | [Mario Picross 2](https://www.romhacking.net/translations/2303/)           | `Picross2.ips`                                   | 57788519111CBE9E20B43D1935E9F52AE165E858 |
 | [Metroid II EJRTQ Colorization](https://www.romhacking.net/hacks/4388/)    | `Metroid_II_EJRTQ_Colorization_v1.3.zip`         | worked on my ROM                         |
+| [Pokemon Crystal 251](https://www.romhacking.net/hacks/6088/)              | `251 Crystal (2.3).ips`                          | F2F52230B536214EF7C9924F483392993E226CFB |
 | [Pokemon Picross](https://www.romhacking.net/translations/5702/)           | `POKEPICROSS_ENG.ups`                            | 8204064B7149357939B57342820E7955749183B6 |
 | [Pokemon TCG 2](https://www.romhacking.net/translations/1736/)             | `PokemonTCG2-FullTrans.ips`                      | A7E12BCC5F514E3AAD8DE570FD511AAB0A308822 |
 | [Super Mario Land 2 DX](https://www.romhacking.net/hacks/3784/)            | `SML2DXv181.ips`                                 | BBA408539ECBF8D322324956D859BC86E2A9977B |
