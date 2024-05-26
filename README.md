@@ -143,6 +143,13 @@ Programs for patching:
 | ------------------------------------------------------------------------------------------ | ---------------- | -------------------------------------- |
 | [Bomberman 64 - Arcade Edition Translation](https://www.romhacking.net/translations/2755/) | `Bomberman64.7z` | 08E491F87445C6E5C168D982FC665D5F (MD5) |
 
+## GB
+
+| Hack                                                                         | File            | ROM SHA1                                 |
+| ---------------------------------------------------------------------------- | --------------- | ---------------------------------------- |
+| [For the Frog the Bell Tolls](https://www.romhacking.net/translations/1623/) | `Frog_v1.0.ips` | CE1E4A788327F3099877C88CC848E48C1FD055AB |
+
+
 ## GBC
 
 | Hack                                                                       | File                                             | ROM SHA1                                 |
