@@ -136,6 +136,8 @@ Programs for patching:
 | [Kirby's Super Star Stacker](https://www.romhacking.net/translations/4917/)                               | `Super Star Stacker 1.1.ips`                     | DC252753D4964516419CA981D59A8E704BA41842 |
 | [Mario's Super Picross](https://www.romhacking.net/translations/6306/)                                    | `Marios Super Picross - English Translation.bps` | C4200B9886B16C148B32D2C75D02F2A875D997CC |
 | [Super Mario World - A Plumber For All Seasons](https://www.smwcentral.net/?p=section&a=details&id=28856) | `a-plumber-for-all-seasons_2021-11-22.bps`       | 6B47BB75D16514B6A476AA0C73A683A2A4C18765 |
+| [Super Bomberman 4 Translation](https://www.romhacking.net/translations/1450)                             | `Super Bomberman 4 (jap2eng) v1.0.zip`           | FF580E5A990B1EB4026FDC3669EC6F4A750B6309 |
+| [Super Bomberman 5 Translation](https://www.romhacking.net/translations/5333/)                            | `sbomb5-beta.7z`                                 | E2DD2F062D3B41F7550FDBC5F7E2B7D0C8AC684C |
 
 ## N64
 
