@@ -132,6 +132,7 @@ Programs for patching:
 
 | Hack                                                                                                      | File                                             | ROM SHA1                                 |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------- |
+| [Dragon Quest III](https://www.romhacking.net/translations/6398/)                                         | `Dragon_Quest_III-SNES.zip`                      | B711341E4B1022D7645C5313840874AEBC01B7B7 |
 | [F-Zero BS Deluxe](https://www.romhacking.net/hacks/8437/)                                                | `bs-deluxe-usa.ips`                              | D3EFD32B68F1FE37A82DB9D9929B7CA7CC1A3AF4 |
 | [Kirby's Super Star Stacker](https://www.romhacking.net/translations/4917/)                               | `Super Star Stacker 1.1.ips`                     | DC252753D4964516419CA981D59A8E704BA41842 |
 | [Mario's Super Picross](https://www.romhacking.net/translations/6306/)                                    | `Marios Super Picross - English Translation.bps` | C4200B9886B16C148B32D2C75D02F2A875D997CC |
@@ -159,6 +160,7 @@ Programs for patching:
 | [Donkey Kong Land 2 DX](https://www.romhacking.net/hacks/6866/)            | `DKL2 V1.2.ips`                                  | 89CC4F01653A6105EE5C00E10FC65AA1437FD320 |
 | [Donkey Kong Land DX](https://www.romhacking.net/hacks/6076/)              | `DKL_v1.01.ips`                                  | 4E6D8F085CA197479D59912C1D58E4F3B40C28AC |
 | [Dr Mario DX](https://www.romhacking.net/hacks/5281/)                      | `dr_mario_dx.ips`                                | D31D67D0682515C7C85DEAA1752B02231150E5BF |
+| [Final Fantasy Adventure DX](https://www.romhacking.net/hacks/8673/)       | `Final Fantasy Adventure DX (USA).ips.zip`       | 8B93C55EE2660C60CF86DD70058F96ACE98782C8 |
 | [Kirby's Dream Land 2 DX](https://www.romhacking.net/hacks/7724/)          | `Kirby's Dream Land 2 DX v1.0b.bps`              | 8A2898FFA17E25F43793F40C88421D840D372D3C |
 | [Kirby's Dream Land DX](https://www.romhacking.net/hacks/5635/)            | `dreamLandDX.ips`                                | 90979BAA1D0E24B41B5C304C5DDAF77450692D5A |
 | [Kirby's Pinball Land DX](https://www.romhacking.net/hacks/6079/)          | `Kirby's Pinball Land DX v1.1.ips`               | 06EFDB138FF56CD9522DECE44ADADD3FAE169C76 |
