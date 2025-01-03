@@ -117,7 +117,11 @@ Links
 
 # Patches
 
-Programs for patching:
+* [Online Patcher](https://www.marcrobledo.com/RomPatcher.js/)
+* [Checksums](https://www.marcrobledo.com/sfv-checker/)
+* Other online patches and utilities: https://www.marcrobledo.com/
+* List of popular color hacks and translations: https://www.romhacking.net/forum/index.php?topic=33121.0
+Programs here for patching:
 * `/programs/patchers/Lunar IPS.exe` to apply `.ips`
 * `/programs/patchers/beat.exe` to apple `.bps`
 * `/programs/patchers/tsukuyomi ups.exe` to apple `.ups`
@@ -152,26 +156,37 @@ Programs for patching:
 | ---------------------------------------------------------------------------- | --------------- | ---------------------------------------- |
 | [For the Frog the Bell Tolls](https://www.romhacking.net/translations/1623/) | `Frog_v1.0.ips` | CE1E4A788327F3099877C88CC848E48C1FD055AB |
 
-
 ## GBC
 
-| Hack                                                                       | File                                             | ROM SHA1                                 |
-| -------------------------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------- |
-| [Donkey Kong Land 2 DX](https://www.romhacking.net/hacks/6866/)            | `DKL2 V1.2.ips`                                  | 89CC4F01653A6105EE5C00E10FC65AA1437FD320 |
-| [Donkey Kong Land DX](https://www.romhacking.net/hacks/6076/)              | `DKL_v1.01.ips`                                  | 4E6D8F085CA197479D59912C1D58E4F3B40C28AC |
-| [Dr Mario DX](https://www.romhacking.net/hacks/5281/)                      | `dr_mario_dx.ips`                                | D31D67D0682515C7C85DEAA1752B02231150E5BF |
-| [Final Fantasy Adventure DX](https://www.romhacking.net/hacks/8673/)       | `Final Fantasy Adventure DX (USA).ips.zip`       | 8B93C55EE2660C60CF86DD70058F96ACE98782C8 |
-| [Kirby's Dream Land 2 DX](https://www.romhacking.net/hacks/7724/)          | `Kirby's Dream Land 2 DX v1.0b.bps`              | 8A2898FFA17E25F43793F40C88421D840D372D3C |
-| [Kirby's Dream Land DX](https://www.romhacking.net/hacks/5635/)            | `dreamLandDX.ips`                                | 90979BAA1D0E24B41B5C304C5DDAF77450692D5A |
-| [Kirby's Pinball Land DX](https://www.romhacking.net/hacks/6079/)          | `Kirby's Pinball Land DX v1.1.ips`               | 06EFDB138FF56CD9522DECE44ADADD3FAE169C76 |
-| [Mario Picross 2](https://www.romhacking.net/translations/2303/)           | `Picross2.ips`                                   | 57788519111CBE9E20B43D1935E9F52AE165E858 |
-| [Metroid II EJRTQ Colorization](https://www.romhacking.net/hacks/4388/)    | `Metroid_II_EJRTQ_Colorization_v1.3.zip`         | worked on my ROM                         |
-| [Pokemon Crystal 251](https://www.romhacking.net/hacks/6088/)              | `251 Crystal (2.3).ips`                          | F2F52230B536214EF7C9924F483392993E226CFB |
-| [Pokemon Picross](https://www.romhacking.net/translations/5702/)           | `POKEPICROSS_ENG.ups`                            | 8204064B7149357939B57342820E7955749183B6 |
-| [Pokemon TCG 2](https://www.romhacking.net/translations/1736/)             | `PokemonTCG2-FullTrans.ips`                      | A7E12BCC5F514E3AAD8DE570FD511AAB0A308822 |
-| [Super Mario Land 2 DX](https://www.romhacking.net/hacks/3784/)            | `SML2DXv181.ips`                                 | BBA408539ECBF8D322324956D859BC86E2A9977B |
-| [Super Mario Land DX](https://www.romhacking.net/hacks/4477/)              | `smldx.ips`                                      | 3A4DDB39B234A67FFB361EE7ABC3D23E0A8B1C89 |
-| [Wario Land Super Mario Land 3 DX](https://www.romhacking.net/hacks/6683/) | `Wario Land - Super Mario Land 3 DX (World).ips` | AE65800302438E37A99E623A71D1C954D73C843E |
+| Hack                                                                                                                                                           | File                                             | ROM SHA1                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| [Bugs Bunny Crazy Castle 2 DX](https://github.com/supergamerguy777/Bugs-Bunny-Crazy-Castle-2-DX-backup-)                                                       | `Bugs Bunny Crazy Castle 2 DX (v1.0).ips`        | 1E4C8C8FE8B6C34F76CD0DA876442F14299DA725                                                        |
+| [Donkey Kong Land DX](https://www.romhacking.net/hacks/6076/)                                                                                                  | `DKL_v1.01.ips`                                  | 4E6D8F085CA197479D59912C1D58E4F3B40C28AC                                                        |
+| [Donkey Kong Land 2 DX](https://www.romhacking.net/hacks/6866/)                                                                                                | `DKL2 V1.2.ips`                                  | 89CC4F01653A6105EE5C00E10FC65AA1437FD320                                                        |
+| [Donkey Kong Land 3 DX](https://www.romhacking.net/translations/1757/)                                                                                         | `DKL3 - English v1.3.zip`                        | 55B133B739A5472D477336647CB9EC97B7FA85A2                                                        |
+| [Dr Mario DX](https://www.romhacking.net/hacks/5281/)                                                                                                          | `dr_mario_dx.ips`, `dr_mario_dx_v21.zip`         | D31D67D0682515C7C85DEAA1752B02231150E5BF                                                        |
+| [Final Fantasy Adventure DX](https://www.romhacking.net/hacks/8673/)                                                                                           | `Final Fantasy Adventure DX (USA).ips.zip`       | 8B93C55EE2660C60CF86DD70058F96ACE98782C8                                                        |
+| [Kirby's Dream Land 2 DX](https://www.romhacking.net/hacks/7724/)                                                                                              | `Kirby's Dream Land 2 DX v1.0b.bps`              | 8A2898FFA17E25F43793F40C88421D840D372D3C                                                        |
+| [Kirby's Dream Land DX](https://www.romhacking.net/hacks/5635/)                                                                                                | `dreamLandDX.ips`                                | 90979BAA1D0E24B41B5C304C5DDAF77450692D5A                                                        |
+| [Kirby's Pinball Land DX](https://www.romhacking.net/hacks/6079/)                                                                                              | `Kirby's Pinball Land DX v1.1.ips`               | 06EFDB138FF56CD9522DECE44ADADD3FAE169C76                                                        |
+| [Mario Picross 2 (translation)](https://www.romhacking.net/translations/2303/)                                                                                 | `Picross2.ips`                                   | 57788519111CBE9E20B43D1935E9F52AE165E858                                                        |
+| [Mega Man - Dr Wily's Revenge DX](https://www.romhacking.net/hacks/7492/)                                                                                      | `MMW1 GBC_v1.02.zip`                             | 277EDB3C844E812BA4B3EB9A96C9C30414541858                                                        |
+| [Mega Man II DX](https://www.romhacking.net/hacks/8688/)                                                                                                       | `MMW2 Color v1.01.zip`                           | 334F1A93346D55E1BE2967F0AF952E37AA52FCA7                                                        |
+| [Mega Man III DX](https://www.marcrobledo.com/game-boy/mega-man-world-3-dx/)                                                                                   | `mmw3dx_v1_2b.zip`                               | 57347305AB297DAA4332564623C4A098E6DBB1A3                                                        |
+| [Mega Man IV DX](https://www.marcrobledo.com/game-boy/mega-man-world-4-dx/)                                                                                    | `mmw4dx_v1_0b.zip`                               | 6F0901DB2B5DCAACE0215C0ABDC21A914FA21B65                                                        |
+| [Mega Man V DX](https://www.marcrobledo.com/game-boy/mega-man-world-5-dx/)                                                                                     | `mmw5dx_v1_5_2.zip`                              | 9A7DA0E4D3F49E4A0B94E85CD64E28A687D81260                                                        |
+| [Metroid II EJRTQ Colorization](https://www.romhacking.net/hacks/4388/)                                                                                        | `Metroid_II_EJRTQ_Colorization_v1.3.zip`         | 74A2FAD86B9A4C013149B1E214BC4600EFB1066D                                                        |
+| [Mobile Golf (translation)](https://www.romhacking.net/translations/6236) ([alternate](https://www.marcrobledo.com/game-boy/mobile-golf-english-translation/)) | `mobile_golf_en_v1_2b.zip`                       | FDE414FC9EFEF2C30D1A9E0A2ED35AD2EFC0EDEE                                                        |
+| [Pinball - Revenge of the Gator Gold](https://www.romhacking.net/hacks/7480/)                                                                                  | `GatorGold_v1.zip`                               | 493834DB1C3C7859086A1C570A4BF5E5F6DD332B                                                        |
+| [Pokemon Crystal 251](https://www.romhacking.net/hacks/6088/)                                                                                                  | `251 Crystal (2.3).ips`                          | F2F52230B536214EF7C9924F483392993E226CFB                                                        |
+| [Pokemon Red/Blue DX](https://www.romhacking.net/hacks/1385/)                                                                                                  | `pokered_color.zip`                              | EA9BCAE617FDF159B045185467AE58B2E4A48B9A (Red), D7037C83E1AE5B39BDE3C30787637BA1D4C48CE2 (Blue) |
+| [Pokemon Picross (translation)](https://www.romhacking.net/translations/5702/)                                                                                 | `POKEPICROSS_ENG.ups`                            | 8204064B7149357939B57342820E7955749183B6                                                        |
+| [Pokemon TCG 2 (translation)](https://www.romhacking.net/translations/1736/)                                                                                   | `PokemonTCG2-FullTrans.ips`                      | A7E12BCC5F514E3AAD8DE570FD511AAB0A308822                                                        |
+| [Super Mario Land 2 DX](https://www.romhacking.net/hacks/3784/)                                                                                                | `SML2DXv181.ips`                                 | BBA408539ECBF8D322324956D859BC86E2A9977B                                                        |
+| [Super Mario Land DX](https://www.romhacking.net/hacks/4477/)                                                                                                  | `smldx.ips`                                      | 3A4DDB39B234A67FFB361EE7ABC3D23E0A8B1C89                                                        |
+| [Super Robot Pinball](https://www.marcrobledo.com/game-boy/super-robot-pinball-english-translation/)                                                           | `super_robot_pinball_en_v1.zip`                  | 2DBE45E3D5912B270B8BFACC5D9FFC836FE74284                                                        |
+| [Wario Land Super Mario Land 3 DX](https://www.romhacking.net/hacks/6683/)                                                                                     | `Wario Land - Super Mario Land 3 DX (World).ips` | AE65800302438E37A99E623A71D1C954D73C843E                                                        |
+
 
 ## GBA
 
