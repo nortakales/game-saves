@@ -51,6 +51,7 @@ Pixel Modes:
 # Programs
 
 * chdman - Converts between GDI/CUE and CHD
+* NKit - downsize Gamecube isos
 
 # Scripts
 
