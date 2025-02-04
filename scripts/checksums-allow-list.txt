@@ -14,3 +14,27 @@
 ./saves/3DS/Metroid - Samus Returns/2023-08-08-2 final save point/profile0/pkprfl.bmssv
 ./saves/3DS/Metroid - Samus Returns/2023-08-08-3 area 1 items complete/profile0/pkprfl.bmssv
 ./saves/3DS/Metroid - Samus Returns/2023-08-08-4 area 2 items complete/profile0/pkprfl.bmssv
+./saves/3DS/Mario Kart 7/2025-01-31 mushroom mirror cup complete/replay/replay03.dat
+./saves/3DS/Mario Kart 7/2025-01-31 mushroom mirror cup complete/replay/replay04.dat
+./saves/3DS/Mario Kart 7/2025-01-31 mushroom mirror cup complete/replay/replay06.dat
+./saves/3DS/Mario Kart 7/2025-02-02-1 flower mirror cup complete/replay/replay03.dat
+./saves/3DS/Mario Kart 7/2025-02-02-1 flower mirror cup complete/replay/replay04.dat
+./saves/3DS/Mario Kart 7/2025-02-02-1 flower mirror cup complete/replay/replay06.dat
+./saves/3DS/Mario Kart 7/2025-02-02-1 shell mirror cup complete/replay/replay03.dat
+./saves/3DS/Mario Kart 7/2025-02-02-1 shell mirror cup complete/replay/replay04.dat
+./saves/3DS/Mario Kart 7/2025-02-02-1 shell mirror cup complete/replay/replay06.dat
+./saves/3DS/Mario Kart 7/2025-02-02-2 banana mirror cup complete/replay/replay03.dat
+./saves/3DS/Mario Kart 7/2025-02-02-2 banana mirror cup complete/replay/replay04.dat
+./saves/3DS/Mario Kart 7/2025-02-02-2 banana mirror cup complete/replay/replay06.dat
+./saves/3DS/Mario Kart 7/2025-02-02-2 star mirror cup complete/replay/replay03.dat
+./saves/3DS/Mario Kart 7/2025-02-02-2 star mirror cup complete/replay/replay04.dat
+./saves/3DS/Mario Kart 7/2025-02-02-2 star mirror cup complete/replay/replay06.dat
+./saves/3DS/Mario Kart 7/2025-02-02-3 special mirror cup complete/replay/replay03.dat
+./saves/3DS/Mario Kart 7/2025-02-02-3 special mirror cup complete/replay/replay04.dat
+./saves/3DS/Mario Kart 7/2025-02-02-3 special mirror cup complete/replay/replay06.dat
+./saves/3DS/Mario Kart 7/2025-02-03-1 leaf mirror cup complete/replay/replay03.dat
+./saves/3DS/Mario Kart 7/2025-02-03-1 leaf mirror cup complete/replay/replay04.dat
+./saves/3DS/Mario Kart 7/2025-02-03-1 leaf mirror cup complete/replay/replay06.dat
+./saves/3DS/Mario Kart 7/2025-02-03-2 all cups gold trophy/replay/replay03.dat
+./saves/3DS/Mario Kart 7/2025-02-03-2 all cups gold trophy/replay/replay04.dat
+./saves/3DS/Mario Kart 7/2025-02-03-2 all cups gold trophy/replay/replay06.dat
