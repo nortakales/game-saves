@@ -24,6 +24,7 @@ Repository of my retro game saves. Readme includes various tools for interacting
 * Retrotink 4k
   * Firmware: https://retrotink-llc.github.io/firmware/
   * Docs: https://consolemods.org/wiki/AV:RetroTINK-4K
+* Orange FM: https://orangegb.com/orangefm/manual_v13
 
 ## GBC Screen
 
