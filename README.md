@@ -21,6 +21,9 @@ Repository of my retro game saves. Readme includes various tools for interacting
 
 * [JoeyN64](https://bennvenn.myshopify.com/products/joeyn64-cart-flasher) - N64 game pak and controller pak reader/writer
 * [JoeyJR](https://bennvenn.myshopify.com/products/usb-gb-c-cart-dumper-the-joey-jr) - GB/GBC/GBA cart reader/writer
+* Retrotink 4k
+  * Firmware: https://retrotink-llc.github.io/firmware/
+  * Docs: https://consolemods.org/wiki/AV:RetroTINK-4K
 
 ## GBC Screen
 
