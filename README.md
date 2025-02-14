@@ -71,8 +71,11 @@ Pixel Modes:
 
 * [Save Methods](http://micro-64.com/database/gamesave.shtml)
 * [CIC List](http://micro-64.com/database/gamecic.shtml)
-* [GameboxSystems/64HD-Installation-Guide](https://github.com/GameboxSystems/64HD-Installation-Guide)
-  * L + R + C-down + Dpad-down = enter OSD mode
+* Gamebox 64 HD
+  * [GameboxSystems/64HD-Installation-Guide](https://github.com/GameboxSystems/64HD-Installation-Guide)
+    * L + R + C-down + Dpad-down = enter OSD mode
+  * [GameboxSystems/Firmware-Update-Install-Scripts](https://github.com/GameboxSystems/Firmware-Update-Install-Scripts)
+  * [GameboxSystems/Gamebox-Product-Firmware-Updates](https://github.com/GameboxSystems/Gamebox-Product-Firmware-Updates)
 
 # 3DS
 
