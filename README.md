@@ -142,15 +142,19 @@ Programs here for patching:
 
 ## SNES
 
-| Hack                                                                                                      | File                                             | ROM SHA1                                 |
-| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------- |
-| [Dragon Quest III](https://www.romhacking.net/translations/6398/)                                         | `Dragon_Quest_III-SNES.zip`                      | B711341E4B1022D7645C5313840874AEBC01B7B7 |
-| [F-Zero BS Deluxe](https://www.romhacking.net/hacks/8437/)                                                | `bs-deluxe-usa.ips`                              | D3EFD32B68F1FE37A82DB9D9929B7CA7CC1A3AF4 |
-| [Kirby's Super Star Stacker](https://www.romhacking.net/translations/4917/)                               | `Super Star Stacker 1.1.ips`                     | DC252753D4964516419CA981D59A8E704BA41842 |
-| [Mario's Super Picross](https://www.romhacking.net/translations/6306/)                                    | `Marios Super Picross - English Translation.bps` | C4200B9886B16C148B32D2C75D02F2A875D997CC |
-| [Super Mario World - A Plumber For All Seasons](https://www.smwcentral.net/?p=section&a=details&id=28856) | `a-plumber-for-all-seasons_2021-11-22.bps`       | 6B47BB75D16514B6A476AA0C73A683A2A4C18765 |
-| [Super Bomberman 4 Translation](https://www.romhacking.net/translations/1450)                             | `Super Bomberman 4 (jap2eng) v1.0.zip`           | FF580E5A990B1EB4026FDC3669EC6F4A750B6309 |
-| [Super Bomberman 5 Translation](https://www.romhacking.net/translations/5333/)                            | `sbomb5-beta.7z`                                 | E2DD2F062D3B41F7550FDBC5F7E2B7D0C8AC684C |
+| Hack                                                                                                                              | File                                               | ROM SHA1                                 |
+| --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ---------------------------------------- |
+| [Dragon Quest III](https://www.romhacking.net/translations/6398/)                                                                 | `Dragon_Quest_III-SNES.zip`                        | B711341E4B1022D7645C5313840874AEBC01B7B7 |
+| [F-Zero BS Deluxe](https://www.romhacking.net/hacks/8437/)                                                                        | `bs-deluxe-usa.ips`                                | D3EFD32B68F1FE37A82DB9D9929B7CA7CC1A3AF4 |
+| [F-Zero BS Deluxe 1.1](https://archive.org/details/bs_f-zero_deluxe_v1.1)                                                         | `bs_f-zero_deluxe_v1.1.zip`                        | D3EFD32B68F1FE37A82DB9D9929B7CA7CC1A3AF4 |
+| [Jurasic Park II - The Chaos Continues Redux](https://romhackplaza.org/romhacks/jurassic-park-ii-the-chaos-continues-redux-snes/) | `Jurassic Park II - The Chaos Continues Redux.zip` | 23967B9DD586C01A8B6E89BB3774C3B3F7BDF3BA |
+| [Kirby's Super Star Stacker](https://www.romhacking.net/translations/4917/)                                                       | `Super Star Stacker 1.1.ips`                       | DC252753D4964516419CA981D59A8E704BA41842 |
+| [Mario's Super Picross](https://www.romhacking.net/translations/6306/)                                                            | `Marios Super Picross - English Translation.bps`   | C4200B9886B16C148B32D2C75D02F2A875D997CC |
+| [Super Mario World - A Plumber For All Seasons](https://www.smwcentral.net/?p=section&a=details&id=28856)                         | `a-plumber-for-all-seasons_2021-11-22.bps`         | 6B47BB75D16514B6A476AA0C73A683A2A4C18765 |
+| [Super Bomberman 4 Translation](https://www.romhacking.net/translations/1450)                                                     | `Super Bomberman 4 (jap2eng) v1.0.zip`             | FF580E5A990B1EB4026FDC3669EC6F4A750B6309 |
+| [Super Bomberman 5 Translation](https://www.romhacking.net/translations/5333/)                                                    | `sbomb5-beta.7z`                                   | E2DD2F062D3B41F7550FDBC5F7E2B7D0C8AC684C |
+
+[F-Zero BS Deluxe 1.1 release](https://superfamicom.org/blog/2025/03/we-found-bs-f-zero-grand-prix-2-week-1/)
 
 ## N64
 
