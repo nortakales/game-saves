@@ -102,6 +102,8 @@ Pixel Modes:
 * By default, pressing (Left Shoulder) + (Down D-Pad) + (Select) while in 3DS mode will open the Rosalina menu, where you can check system information, take screenshots, enable cheats, and more. This can be changed from the Rosalina menu.
 * Holding (Start) + (Select) + (X) on boot will make the notification LED show a color for debug purposes. See the changelog for a list.
 
+TODO DSi hotkeys
+
 # SNES
 
 * [Correct aspect ratios](https://forums.nesdev.org/viewtopic.php?t=23885)
@@ -245,9 +247,10 @@ Important Git repos
 * HW1 is typically external (N64 adapter)
 * HW2 is typically internal (Gamecube port adapter)
 
-# Gameboy Printer
+# Gameboy Printer/Camera
 
 * [Compilation of printable content](https://www.reddit.com/r/gamecollecting/comments/jx96pc/all_the_images_you_can_print_from_game_boy/)
+* [DisplayBoy - GB screen filters on photos](https://coding-fish-1989.github.io/displayboy/)
 
 # Other Assorted Links
 
